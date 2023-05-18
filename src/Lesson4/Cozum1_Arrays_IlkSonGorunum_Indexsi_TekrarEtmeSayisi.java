@@ -5,8 +5,8 @@ import java.util.List;
 
 public class Cozum1_Arrays_IlkSonGorunum_Indexsi_TekrarEtmeSayisi {
 
-    //Kullanıcıdan bir tamsayı dizisi isteyin
-    //Dizideki tüm tekrar eden elemanları bulup,
+
+    //Verilen bir arrayin tüm tekrar eden elemanları bulup,
     //her bir elemanın kaç kez tekrar ettiğini ve dizideki ilk görünümünün indisini
     //ve sonraki gorunum ındıslerını
     //ekrana yazdırın.
